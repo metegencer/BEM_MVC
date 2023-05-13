@@ -7,5 +7,6 @@
         public string SurName { get; set; }
         public int TelNo { get; set; }
         public string Email { get; set; }
+        public string Email2 { get; set; }
     }
 }
