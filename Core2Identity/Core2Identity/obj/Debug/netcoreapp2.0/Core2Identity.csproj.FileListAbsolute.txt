@@ -1,0 +1,15 @@
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\appsettings.json
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\bower.json
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.deps.json
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.runtimeconfig.json
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.runtimeconfig.dev.json
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.dll
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\bin\Debug\netcoreapp2.0\Core2Identity.pdb
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.csproj.AssemblyReference.cache
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.AssemblyInfoInputs.cache
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.AssemblyInfo.cs
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.csproj.CoreCompileInputs.cache
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.dll
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.pdb
+C:\MCSD_241_008\MVC\EF_Authentication\Core2Identity\Core2Identity\obj\Debug\netcoreapp2.0\Core2Identity.genruntimeconfig.cache
